@@ -1,3 +1,5 @@
+# ASCII drawings of different levels of hangman and the game logo
+
 stages = ['''
   +---+
   |   |
